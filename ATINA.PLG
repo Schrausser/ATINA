@@ -1,0 +1,21 @@
+--------------------Configuration: ATINA - Win32 Debug--------------------
+Begining build with project "D:\eigenedateien_c1700\ATINA\ATINA.DSP", at root.
+Active configuration is Win32 (x86) Application (based on Win32 (x86) Application)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MDd /W3 /Gm /GX /Zi /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /Fp"Debug/ATINA.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /c "
+			"OLE Type Library Maker" with flags "/nologo /D "_DEBUG" /mktyplib203 /o NUL /win32 "
+			"Win32 Resource Compiler" with flags "/l 0x407 /fo"Debug/ATINA.res" /d "_DEBUG" /d "_AFXDLL" "
+			"Browser Database Maker" with flags "/nologo /o"Debug/ATINA.bsc" "
+			"COFF Linker for 80x86" with flags "/nologo /subsystem:windows /incremental:yes /pdb:"Debug/ATINA.pdb" /debug /machine:I386 /out:"Debug/ATINA.exe" /pdbtype:sept "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating command line "rc.exe /l 0x407 /fo"Debug/ATINA.res" /d "_DEBUG" /d "_AFXDLL" "D:\eigenedateien_c1700\ATINA\ATINA.rc"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/ATINA.pdb" /debug /machine:I386 /out:"Debug/ATINA.exe" /pdbtype:sept  .\Debug\ATINA.obj .\Debug\ATINADlg.obj .\Debug\Einstellungen.obj .\Debug\StdAfx.obj .\Debug\ATINA.res" 
+Compiling resources...
+Linking...
+
+
+
+ATINA.exe - 0 error(s), 0 warning(s)
