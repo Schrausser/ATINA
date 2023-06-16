@@ -1,5 +1,5 @@
 # ATINA
-Advanced Tool for Integrated Algorithms. MS Windows interface for EEG applications.
+Advanced Tool for Integrated Algorithms. MS Windows interface for EEG applications (Schrausser, 2000a), *Event Related Coherence* (Neubauer et al., 2001; Schrausser, 2000c; Schrausser et al., 2001, 2002, 2003) and *Foc* (Schrausser, 2000b).
 
 ## References
 
