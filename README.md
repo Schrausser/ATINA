@@ -2,7 +2,7 @@
 
 ![figure.\label{pic0}](ATINA.jpg)
 
-Advanced Tool for Integrated Algorithms. MS Windows interface for EEG applications (Schrausser, 2000a), *Event Related Coherence* (Neubauer et al., 2001; Schrausser, 2000c; Schrausser et al., 2001, 2002, 2003) and *Foc* (Schrausser, 2000b).
+Advanced Tool for Integrated Algorithms `ATINA`. MS Windows interface for *EEG applications* (Schrausser, 2000a), event related coherence *ERC* (Neubauer et al., 2001; Schrausser, 2000c; Schrausser et al., 2001, 2002, 2003) and focus parameters *FOC, FLOC*, respectively (Schrausser, 2000b).
 
 ## References
 
